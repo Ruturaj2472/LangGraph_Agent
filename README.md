@@ -1,4 +1,4 @@
-# 🦜🔗 LangGraph Agent — Stateful AI Workflows with Memory & Tool Use
+# 🔗 LangGraph Agent — Stateful AI Workflows with Memory & Tool Use
 
 Build stateful, multi-actor AI agents using **LangGraph** — progressing from a simple single-LLM chatbot to a tool-enabled agent with persistent memory, all the way to a multi-agent sentiment routing system.
 
