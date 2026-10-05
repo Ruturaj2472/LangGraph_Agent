@@ -317,7 +317,7 @@ print(result["sentiment"], "->", result["output"].content)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/shivaniharane/LangGraph_Agent.git
+git clone https://github.com/Ruturaj2472/LangGraph_Agent.git
 cd LangGraph_Agent
 ```
 
